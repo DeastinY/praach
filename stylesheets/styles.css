@@ -166,19 +166,17 @@ header {
 
 .nav ul {
   list-style:none;
-  height:40px;
+  height:60px;
   padding:0;
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:270px;
 }
 
 .nav li {
-  width:89px;
   float:left;
   border-right:1px solid #e0e0e0;
-  height:40px;
+  height:60px;
 }
 
 .nav li:first-child a {
@@ -191,12 +189,12 @@ header {
 
 .nav ul a {
   line-height:1;
-  font-size:11px;
+  font-size:16px;
   color:#999;
   display:block;
   text-align:center;
   padding-top:6px;
-  height:34px;
+  height:60px;
 }
 
 .nav ul a:hover {
@@ -212,13 +210,13 @@ strong {
   font-weight:700;
 }
 
-header ul li + li + li {
+.nav ul li + li + li {
   border-right:none;
   width:89px;
 }
 
-header ul a strong {
-  font-size:14px;
+.nav ul a strong {
+  font-size:18px;
   display:block;
   color:#222;
 }
