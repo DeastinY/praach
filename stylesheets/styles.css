@@ -170,12 +170,10 @@ header {
   padding:0;
   background: #f4f4f4;
   border-radius:5px;
-  border:1px solid #e0e0e0;
 }
 
 .nav li {
   float:left;
-  border-right:1px solid #e0e0e0;
   height:60px;
   width:25%;
 }
@@ -194,8 +192,7 @@ header {
   color:#999;
   display:block;
   text-align:center;
-  padding-top:6px;
-  height:60px;
+  vertical-align:center;
 }
 
 .nav ul a:hover {
@@ -209,10 +206,6 @@ header {
 strong {
   color:#222;
   font-weight:700;
-}
-
-.nav ul li + li + li + li {
-  border-right:none;
 }
 
 .nav ul a strong {
