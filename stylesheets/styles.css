@@ -213,7 +213,6 @@ strong {
 
 .nav ul li + li + li + li {
   border-right:none;
-  width:25%;
 }
 
 .nav ul a strong {
