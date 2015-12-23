@@ -177,6 +177,7 @@ header {
   float:left;
   border-right:1px solid #e0e0e0;
   height:60px;
+  width:25%;
 }
 
 .nav li:first-child a {
