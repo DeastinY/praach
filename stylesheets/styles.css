@@ -199,7 +199,7 @@ footer {
 
   header {
     padding-right:320px;
-    display: none;
+    display: block;
   }
 
   section {
