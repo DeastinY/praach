@@ -109,7 +109,44 @@ header {
 }
 
 .nav ul {
-  list-style:none;
+  list-style:none;img">
+    <a target="_blank" href="images/portrait/a.jpg">
+      <img src="images/portrait/a.jpg"width="300" height="200">
+    </a>
+    <div class="desc"></div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="images/portrait/b.jpg">
+      <img src="images/portrait/b.jpg"width="300" height="200">
+    </a>
+    <div class="desc"></div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="images/portrait/c.jpg">
+      <img src="images/portrait/c.jpg"width="300" height="200">
+    </a>
+    <div class="desc"></div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="images/portrait/d.jpg">
+      <img src="images/portrait/d.jpg"width="300" height="200">
+    </a>
+    <div class="desc"></div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="images/portrait/e.jpg">
+      <img src="images/portrait/e.jpg"width="300" height="200">
+    </a>
+    <div class="desc"></div>
+  </div>
+  <div class="img">
+    <a target="_blank" href="images/portrait/f.jpg">
+      <img src="images/portrait/f.jpg"width="300" height="200">
+    </a>
+    <div class="desc"></div>
+  </div>
+  <div class="img">
+    <a target="_blank
   height:40px;
   padding:0;
   background: #f4f4f4;
@@ -199,7 +236,7 @@ footer {
 
   header {
     padding-right:320px;
-    display: block;
+    display: none;
   }
 
   section {
