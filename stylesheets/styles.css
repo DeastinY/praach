@@ -156,7 +156,7 @@ header {
 .nav li {
   float:left;
   height:40px;
-  width:25%;
+  width:20%;
 }
 
 .nav li:first-child a {
@@ -169,7 +169,7 @@ header {
 
 .nav ul a {
   line-height:40px;
-  font-size:16px;
+  font-size:18px;
   color:#999;
   display:block;
   text-align:center;
